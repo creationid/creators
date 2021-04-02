@@ -9,3 +9,6 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x0000_239A` [Adafruit](https://github.com/adafruit/creations)
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
+
+## `0x0Dxx_xxxx`
+*  `0x0DB6_ED6E` - [Debug Edge](https://debug-edge.io)
