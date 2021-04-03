@@ -7,6 +7,6 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 * `0x0000_0000` [Reserved](https://github.com/creationid/creators)
 * `0x0000_239A` [Adafruit](https://github.com/adafruit/creations)
-* `0x0000_4D43` [MimoCAD](https://github.com/MimoCAD/creations)
+* `0x4D43_0000` [MimoCAD](https://github.com/MimoCAD/creations)
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
