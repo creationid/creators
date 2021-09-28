@@ -18,3 +18,6 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0x6xxx_xxxx`
 *  `0x6d44_6576` [MicroDev](https://github.com/microdev1)
+
+## `0x7xxx_xxxx`
+*  `0x7001_0001` [Bruce Segal (skieast)](https://github.com/skieast)
