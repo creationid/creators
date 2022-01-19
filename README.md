@@ -3,10 +3,15 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 # Assigned Creator IDs
 
-## `0x0000_xxxx` - Reserved for USB VID IDs
+## `0x0000_xxxx` - Reserved for USB VID IDs and official allocations
 
 * `0x0000_0000` [Reserved](https://github.com/creationid/creators)
 * `0x0000_239A` [Adafruit](https://github.com/adafruit/creations)
+* `0x0000_303A` [Espressif](https://github.com/espressif/usb-pids)
+
+## `0x000C_xxxx` - Reserved for USB VID IDs administered by the community
+
+* `0x000C_303A` [Espressif](https://github.com/creationid/espressif-creations)
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
 
