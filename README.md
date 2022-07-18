@@ -19,7 +19,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x0DB6_ED6E` [Debug Edge](https://debug-edge.io)
 
 ## `0x1xxx_xxxx`
-* `0x1010_1010` DFRobot
+* `0x1010_1010` [DFRobot](https://github.com/creationid/dfrobot-creations)
 * `0x1337_1337` [Mark Olsson (k0d)](https://github.com/k0d)
 * `0x1988_1988` [Wemos](https://github.com/creationid/wemos-creations)
 
