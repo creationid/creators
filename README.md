@@ -11,6 +11,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0x000C_xxxx` - Reserved for USB VID IDs administered by the community
 
+* `0x000C_2886` [Seeed Studio](https://github.com/creationid/seeed-studio-creations)
 * `0x000C_303A` [Espressif](https://github.com/creationid/espressif-creations)
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
