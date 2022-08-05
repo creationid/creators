@@ -2,6 +2,7 @@
 Community Allocated Creation IDs for Espressif boards
 
 ## `0x0032_xxxx` - ESP32 dev boards
+*  `0x0032_0001` ESP-EYE
 
 ## `0x0052_xxxx` - S2 dev boards
 
