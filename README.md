@@ -22,6 +22,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0x1xxx_xxxx`
 * `0x1010_1010` [DFRobot](./creations/dfrobot.md)
+* `0x1015_1015` [M5Stack](./creations/m5stack.md)
 * `0x1337_1337` [Mark Olsson (k0d)](https://github.com/k0d)
 * `0x1988_1988` [Wemos](./creations/wemos.md)
 
