@@ -1,7 +1,7 @@
 # M5Stack-creations
 Community Allocated Creation IDs for M5Stack boards
 
-Creator ID: 0x1010_1010
+Creator ID: 0x1015_1015
 
 ## `0x0032_xxxx` - ESP32 dev boards
 
