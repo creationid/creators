@@ -32,5 +32,8 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 ## `0x7xxx_xxxx`
 * `0x7001_0001` [Bruce Segal (skieast)](https://github.com/skieast)
 
+## `0xBxxx_xxxx`
+* `0xB0B0_0000` [Unexpected Maker](https://github.com/unexpectedmaker)
+
 ## `0xCxxx_xxxx`
 * `0xC3C3_0000` [LILYGO](./creations/lilygo.md)
