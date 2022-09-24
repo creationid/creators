@@ -13,6 +13,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 * `0x000C_2886` [Seeed Studio](./creations/seeed-studio.md)
 * `0x000C_303A` [Espressif](./creations/espressif.md)
+* `0x000C_303B` [AI Thinker](./creations/ai-thinker.md)
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
 
