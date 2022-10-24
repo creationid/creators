@@ -4,6 +4,7 @@ Community Allocated Creation IDs for M5Stack boards
 Creator ID: 0x1015_1015
 
 ## `0x0032_xxxx` - ESP32 dev boards
+* `0x0032_0001` Core Fire
 
 ## `0x0052_xxxx` - S2 dev boards
 
