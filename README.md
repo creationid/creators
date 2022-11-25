@@ -38,3 +38,6 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0xCxxx_xxxx`
 * `0xC3C3_0000` [LILYGO](./creations/lilygo.md)
+
+## `0xFxxx_xxxx`
+* [Fully self-administered CreationIDs created by script](./self-administered.md)
