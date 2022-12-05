@@ -3,6 +3,7 @@
 Community Allocated Creation IDs for AI Thinker boards
 
 ## `0x0032_xxxx` - ESP32 dev boards
+*  `0x0032_0001` ESP32-CAM
 
 ## `0x0052_xxxx` - S2 dev boards
 
