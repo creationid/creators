@@ -7,6 +7,9 @@ Creator ID: 0x1015_1015
 * `0x0032_0001` Core Fire
 * `0x0032_0002` Core Basic
 * `0x0032_0003` Atom Lite
+* `0x0032_0004` Atom Matrix
+* `0x0032_0005` Atom Echo
+* `0x0032_0006` Atom U
 
 ## `0x0052_xxxx` - S2 dev boards
 
