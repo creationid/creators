@@ -6,3 +6,6 @@ Community Allocated Creation IDs for LILYGO boards
 *  `0x00C3_0002` [TTGO T-OI-PLUS](https://github.com/Xinyuan-LilyGO/LilyGo-T-OI-PLUS)
 *  `0x00C3_0003` [TTGO T-SIM7000G](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
 *  `0x00C3_0004` [TTGO T-PCIE](https://github.com/Xinyuan-LilyGO/LilyGo-T-PCIE)
+
+## `0x0032_xxxx` - ESP32 boards
+*  `0x0032_0001` [TTGO T18](https://github.com/LilyGO/LILYGO-T-Energy)
