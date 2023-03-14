@@ -17,6 +17,9 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
 
+## `0x01xx_xxxx`
+* `0x0101_1ACE` [01 Space](./creations/01space.md)
+
 ## `0x0Dxx_xxxx`
 * `0x0D10_D000` [Hardkernel](./creations/hardkernel.md)
 * `0x0DB6_ED6E` [Debug Edge](https://debug-edge.io)
