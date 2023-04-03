@@ -17,6 +17,9 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0x00xx_xxxx` - Reserved for future ID subsets
 
+## `0x01xx_xxxx`
+* `0x0101_1ACE` [01 Space](./creations/01space.md)
+
 ## `0x0Dxx_xxxx`
 * `0x0D10_D000` [Hardkernel](./creations/hardkernel.md)
 * `0x0DB6_ED6E` [Debug Edge](https://debug-edge.io)
@@ -25,6 +28,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1010_1010` [DFRobot](./creations/dfrobot.md)
 * `0x1015_1015` [M5Stack](./creations/m5stack.md)
 * `0x1337_1337` [Mark Olsson (k0d)](https://github.com/k0d)
+* `0x1923_1923` [Deneyap](./creations/deneyap.md)
 * `0x1988_1988` [Wemos](./creations/wemos.md)
 
 ## `0x6xxx_xxxx`
