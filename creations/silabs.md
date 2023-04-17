@@ -1,5 +1,5 @@
 # silabs-creations
-Community Allocated Creation IDs for Silicon Labs boards
+Creation IDs for Silicon Labs boards
 
 ## `0x0024_xxxx` - xG24 Boards
 * `0x0024_2601` - xG24 Dev Kit
