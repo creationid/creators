@@ -30,6 +30,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1337_1337` [Mark Olsson (k0d)](https://github.com/k0d)
 * `0x1923_1923` [Deneyap](./creations/deneyap.md)
 * `0x1988_1988` [Wemos](./creations/wemos.md)
+* `0x1996_0000` [Silabs](./creations/silabs.md)
 
 ## `0x6xxx_xxxx`
 * `0x6d44_6576` [MicroDev](https://github.com/microdev1)
