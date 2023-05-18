@@ -12,6 +12,7 @@ Creator ID: 0x1015_1015
 * `0x0032_0006` Atom U
 * `0x0032_0007` Stick C
 * `0x0032_0008` Core2
+* `0x0032_0009` Timer Camera X
 
 ## `0x0052_xxxx` - S2 dev boards
 
