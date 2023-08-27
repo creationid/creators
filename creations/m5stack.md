@@ -14,6 +14,7 @@ Creator ID: 0x1015_1015
 * `0x0032_0008` Core2
 * `0x0032_0009` Timer Camera X
 * `0x0032_000A` Stick C Plus
+* `0x0032_000B` M5Paper
 
 ## `0x0052_xxxx` - S2 dev boards
 
