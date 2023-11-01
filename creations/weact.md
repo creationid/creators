@@ -13,4 +13,5 @@ Creator ID : 0x1011_1011
 ## `0x00C3_xxxx` - C3 dev boards
 
 ## `0x00C6_xxxx` - C6 dev boards
-*  `0x00C6_0001` [WeAct ESP32C6](https://www.aliexpress.com/item/1005005569520224.html)
+*  `0x00C6_0004` [WeAct ESP32C6_N4](https://www.aliexpress.com/item/1005005569520224.html)
+*  `0x00C6_0008` [WeAct ESP32C6_N8](https://www.aliexpress.com/item/1005005569520224.html)
