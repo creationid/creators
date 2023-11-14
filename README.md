@@ -29,6 +29,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1011_1011` [WeAct](./creations/weact.md)
 * `0x1015_1015` [M5Stack](./creations/m5stack.md)
 * `0x1337_1337` [Mark Olsson (k0d)](https://github.com/k0d)
+* `0x148E_173C` [Heltec](./creations/heltec.md)
 * `0x1923_1923` [Deneyap](./creations/deneyap.md)
 * `0x1988_1988` [Wemos](./creations/wemos.md)
 * `0x1996_0000` [Silabs](./creations/silabs.md)
