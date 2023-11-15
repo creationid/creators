@@ -34,6 +34,9 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1988_1988` [Wemos](./creations/wemos.md)
 * `0x1996_0000` [Silabs](./creations/silabs.md)
 
+## `0x4xxx_xxxx`
+* `0x4F58_3097` [Oxocard](creations/oxocard.md)
+
 ## `0x6xxx_xxxx`
 * `0x6d44_6576` [MicroDev](https://github.com/microdev1)
 
