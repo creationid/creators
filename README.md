@@ -37,6 +37,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0x4xxx_xxxx`
 
+* `0x4E1A_1700` [HEIA-FR](creations/heiafr.md)
 * `0x4F58_3097` [Oxocard](creations/oxocard.md)
 
 ## `0x6xxx_xxxx`
