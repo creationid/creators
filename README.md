@@ -38,6 +38,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 
 ## `0x4xxx_xxxx`
 
+* `0x4D69_0000` [Oak Dev Tech](creations/oakdevtech.md)
 * `0x4F58_3097` [Oxocard](creations/oxocard.md)
 
 ## `0x6xxx_xxxx`
