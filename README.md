@@ -35,6 +35,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1988_1988` [Wemos](./creations/wemos.md)
 * `0x1996_0000` [Silabs](./creations/silabs.md)
 * `0x1A00_0000` [Makerfabs](./creations/makerfabs.md)
+* `0x1998_1000` [Maker Go](./creations/makergo.md)
 * `0x1999_1000` [Sunton](./creations/sunton.md)
 
 ## `0x4xxx_xxxx`
