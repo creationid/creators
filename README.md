@@ -37,6 +37,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1A00_0000` [Makerfabs](./creations/makerfabs.md)
 * `0x1998_1000` [Maker Go](./creations/makergo.md)
 * `0x1999_1000` [Sunton](./creations/sunton.md)
+* `0x2222_0000` [Spotpear](./creations/spotpear.md)
 
 ## `0x4xxx_xxxx`
 
