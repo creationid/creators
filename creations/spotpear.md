@@ -2,7 +2,7 @@
 
 Community Allocated Creation IDs for [Spotpear boards](https://spotpear.com/)
 
-Creator ID: 0x2222_0000
+Creator ID: 0x1876_0000
 
 ## `0x00DD_xxxx` - CYD variants
 
