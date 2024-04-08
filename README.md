@@ -31,19 +31,19 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1015_1015` [M5Stack](./creations/m5stack.md)
 * `0x1337_1337` [Mark Olsson (k0d)](https://github.com/k0d)
 * `0x148E_173C` [Heltec](./creations/heltec.md)
+* `0x1876_0000` [Spotpear](./creations/spotpear.md)
 * `0x1923_1923` [Deneyap](./creations/deneyap.md)
 * `0x1988_1988` [Wemos](./creations/wemos.md)
 * `0x1996_0000` [Silabs](./creations/silabs.md)
-* `0x1A00_0000` [Makerfabs](./creations/makerfabs.md)
-* `0x1876_0000` [Spotpear](./creations/spotpear.md)
 * `0x1998_1000` [Maker Go](./creations/makergo.md)
 * `0x1999_1000` [Sunton](./creations/sunton.md)
+* `0x1A00_0000` [Makerfabs](./creations/makerfabs.md)
 
 ## `0x4xxx_xxxx`
 
+* `0x4496_E3F4` [SQFMI](./creations/sqfmi.md)
 * `0x4D69_0000` [Oak Dev Tech](creations/oakdevtech.md)
 * `0x4F58_3097` [Oxocard](creations/oxocard.md)
-* `0x4496_E3F4` [SQFMI](./creations/sqfmi.md)
 
 ## `0x6xxx_xxxx`
 * `0x6d44_6576` [MicroDev](https://github.com/microdev1)
