@@ -5,6 +5,7 @@ Community Allocated Creation IDs for [Wemos boards](https://docs.wemos.cc/en/lat
 Creator ID : 0x1988_1988
 
 ## `0x0032_xxxx` - ESP32 dev boards
+*  `0x0032_0001` [Wemos Lolin32 Lite](https://mischianti.org/esp32-wemos-lolin32-lite-high-resolution-pinout-and-specs)
 
 ## `0x0052_xxxx` - S2 dev boards
 
