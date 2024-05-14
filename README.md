@@ -1,5 +1,25 @@
 # Creation IDs
-Creation IDs are used to digitally identify unique creations of many forms. They are a unique 32-bit creator id that is paired with 32-bit creation ids that are administered by the particular user. These are similar to USB VID and PID but open source and freely available. They can be used in any system that needs a standard creation identifier such as BLE device discovery, WiFi device identification or FPGA peripheral identification.
+Creation IDs are used to digitally identify unique creations of many forms. The term **creation** is intentionally vague to encompass anything digitally identifiable. Creation IDs can be used in any system that needs a standard creation identifier such as BLE device discovery, WiFi device identification or FPGA peripheral identification.
+
+Creation IDs are administered by a person or organization who has been assigned a **creator** ID. They may or may not actually be the creator of the creation. Creator IDs are 32-bit numbers administered in this repository and are paired with 32-bit creation ids that are administered by the creator. These are similar to USB vendor ID (VID) and product ID (PID) but open source and freely available. 
+
+## Getting a new creator ID
+Creator IDs are 32-bit numbers that designate who created something. In practice, this may also designate a third-party who is maintaining IDs on the behalf of the creator. For example, creator IDs automatically encompass all 16-bit USB vendor IDs by prepending the 16-bit `0x0000` prefix. Creator and creation IDs use `_` to separate the 16-bit halves to make these prefixes more obvious. We also have the `0x000C` prefix for community administered creation IDs for creators with an existing USB VID.
+
+### For your own creations
+Make a change to this README and make a PR to get a new creator ID for your own creations. If you have your own USB VID already, add an entry with the `0x0000` prefix and link to the location of your creation IDs. If not, choose a unique 32-bit number that doesn't start with `0x00` because that is reserved for other ID subsets.
+
+### For someone else's creations
+Make a change to this README and make a PR to document it. If the creator has a USB VID assigned to them, then add an entry with the `0x000C` prefix to denote that it is community administered. If not, choose a unique 32-bit number that doesn't start with `0x00` because that is reserved for other ID subsets.
+
+It is often the case that community creation ids will also be administered in this repo as well. If that's what you want to do, then also add a `creations/<creator>.md` file in your PR. You can also create a separate place to administer creation ids so that you control who can assign them. We don't care as long as the creation id is unique and makes that clear.
+
+## Allocating a new creation ID
+Creation ID allocation is left up to the creator. However, here are some guidelines for consistency.
+
+1. If the creator has a USB VID and the creation is a product with a USB PID, then use the `0x0000` prefix plus the USB PID for the creation id.
+2. If the creation doesn't use USB or doesn't have a unique USB PID, then use a prefix that isn't `0x0000` (to reserve it for USB PIDs.)
+3. Use the 16-bit prefix to group creations. For example, Espressif development boards usually have a chip specific prefix such as `0x00C3`.
 
 # Assigned Creator IDs
 
