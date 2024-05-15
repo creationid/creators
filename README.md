@@ -10,7 +10,7 @@ Creator IDs are 32-bit numbers that designate who created something. In practice
 Make a change to this README and make a PR to get a new creator ID for your own creations. If you have your own USB VID already, add an entry with the `0x0000` prefix and link to the location of your creation IDs. If not, choose a unique 32-bit number that doesn't start with `0x00` because that is reserved for other ID subsets.
 
 ### For someone else's creations
-Make a change to this README and make a PR to document it. If the creator has a USB VID assigned to them, then add an entry with the `0x000C` prefix to denote that it is community administered. If not, choose a unique 32-bit number that doesn't start with `0x00` because that is reserved for other ID subsets.
+Make a change to this README and make a PR to document it. If the creator has a USB VID assigned to them, then add an entry with the `0x000C` prefix to denote that it is community administered. If not, choose a unique 32-bit number that doesn't start with `0x00` because that is reserved for other ID subsets. The complete list of USB Vendor IDs is available from the [USB Developers](https://usb.org/developers) page under "Valid USB Vendor ID Numbers". We're ok using obsolete VIDs as well because they are still unique.
 
 It is often the case that community creation ids will also be administered in this repo as well. If that's what you want to do, then also add a `creations/<creator>.md` file in your PR. You can also create a separate place to administer creation ids so that you control who can assign them. We don't care as long as the creation id is unique and makes that clear.
 
