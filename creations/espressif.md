@@ -21,7 +21,3 @@ Community Allocated Creation IDs for Espressif boards
 
 ## `0x0142_xxxx` - H2 dev boards
 *  `0x0142_0001` ESP32-H2-DevKitM-1
-
-## `0x00D0_xxxx` - WROVER-E (ESP32-D0WDQ6) dev boards
-*  `0x00D0-0001` ESP32-WROVER-DEV-CAM
-

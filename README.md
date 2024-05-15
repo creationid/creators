@@ -39,6 +39,7 @@ Creation IDs are used to digitally identify unique creations of many forms. They
 * `0x1999_1000` [Sunton](./creations/sunton.md)
 * `0x1A00_0000` [Makerfabs](./creations/makerfabs.md)
 * `0x1BBB_0000` [Waveshare](./creations/waveshare.md)
+* `0x1C33_0000` [Freenove](./creations/freenove.md)
 
 ## `0x4xxx_xxxx`
 
