@@ -5,4 +5,4 @@ Community Allocated Creation IDs for [DoHome](https://www.amazon.com/stores/page
 Creator ID: 0xD03E_0000
 
 ## `0x00C2_xxxx` - ESP32-C2 (ESP8684) boards
-*  `0x00C2_0001` [NodeMcu-ESP32-C2](https://www.amazon.com/DoHome-ESPC2-12-ESP32-C2-Development-Bluetooth/dp/B0BMV4WSS4#customerReviews)
+*  `0x00C2_0001` [NodeMcu-ESP32-C2](https://www.amazon.com/DoHome-ESPC2-12-ESP32-C2-Development-Bluetooth/dp/B0BMV4WSS4)
