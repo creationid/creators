@@ -13,6 +13,7 @@ Creator ID: 0x1999_1000
 *  `0x00AA_0019` [Sunton ESP32-1732S019](https://www.aliexpress.com/item/1005005059421229.html)
 *  `0x00AA_024C` [Sunton ESP32-2432S024C](https://www.aliexpress.com/item/1005005865107357.html)
 *  `0x00AA_0032` [Sunton ESP32-2432S032](https://www.aliexpress.com/item/1005005138982767.html)
+*  `0x00AA_032C` [Sunton ESP32-2432S032C](https://www.aliexpress.com/item/1005005138982767.html)
 *  `0x00AA_0035` [Sunton ESP32-3248S035](https://www.aliexpress.com/item/1005005900820162.html)
 *  `0x00AA_0043` [Sunton ESP32-4827S043](https://www.aliexpress.com/item/1005004788147691.html)
 *  `0x00AA_0843` [Sunton ESP32-8048S043](https://www.aliexpress.com/item/1005004788147691.html)
