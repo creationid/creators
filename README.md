@@ -1,7 +1,7 @@
 # Creation IDs
 Creation IDs are used to digitally identify unique creations of many forms. The term **creation** is intentionally vague to encompass anything digitally identifiable. Creation IDs can be used in any system that needs a standard creation identifier such as BLE device discovery, WiFi device identification or FPGA peripheral identification.
 
-Creation IDs are administered by a person or organization who has been assigned a **creator** ID. They may or may not actually be the creator of the creation. Creator IDs are 32-bit numbers administered in this repository and are paired with 32-bit creation ids that are administered by the creator. These are similar to USB vendor ID (VID) and product ID (PID) but open source and freely available. 
+Creation IDs are administered by a person or organization who has been assigned a **creator** ID. They may or may not actually be the creator of the creation. Creator IDs are 32-bit numbers administered in this repository and are paired with 32-bit creation ids that are administered by the creator. These are similar to USB vendor ID (VID) and product ID (PID) but open source and freely available.
 
 ## Getting a new creator ID
 Creator IDs are 32-bit numbers that designate who created something. In practice, this may also designate a third-party who is maintaining IDs on the behalf of the creator. For example, creator IDs automatically encompass all 16-bit USB vendor IDs by prepending the 16-bit `0x0000` prefix. Creator and creation IDs use `_` to separate the 16-bit halves to make these prefixes more obvious. We also have the `0x000C` prefix for community administered creation IDs for creators with an existing USB VID.
@@ -82,3 +82,4 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 
 ## `0xDxxx_xxxx`
 * `0xDEAD_BEEF` [Luatos](./creations/luatos.md)
+* `0xD03E_0000` [DoHome](./creations/dohome.md)
