@@ -49,6 +49,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 * `0x1010_1010` [DFRobot](./creations/dfrobot.md)
 * `0x1011_1011` [WeAct](./creations/weact.md)
 * `0x1015_1015` [M5Stack](./creations/m5stack.md)
+* `0x1136_1206` [cezerio](./creations/cezerio.md)
 * `0x1337_1337` [Mark Olsson (k0d)](https://github.com/k0d)
 * `0x148E_173C` [Heltec](./creations/heltec.md)
 * `0x1876_0000` [Spotpear](./creations/spotpear.md)
