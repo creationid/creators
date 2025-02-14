@@ -62,6 +62,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 * `0x1BBB_0000` [Waveshare](./creations/waveshare.md)
 * `0x1C33_0000` [Freenove](./creations/freenove.md)
 * `0x1C34_0000` [April_Brother](./creations/april_brother.md)
+* `0x1C35_0000` [Elecrow](./creations/elecrow.md)
 
 ## `0x4xxx_xxxx`
 
