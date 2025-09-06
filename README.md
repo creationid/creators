@@ -31,6 +31,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 
 ## `0x000C_xxxx` - Reserved for USB VID IDs administered by the community
 
+* `0x000C_15BA` [Olimex](./creations/olimex.md)
 * `0x000C_2886` [Seeed Studio](./creations/seeed-studio.md)
 * `0x000C_303A` [Espressif](./creations/espressif.md)
 * `0x000C_303B` [AI Thinker](./creations/ai-thinker.md)
