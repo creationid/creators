@@ -69,7 +69,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 * `0x1C35_0000` [Elecrow](./creations/elecrow.md)
 
 ## `0x2xxx_xxxx`
-* `0x2024_1402` [Pcbcupid](./creations/pcbcupid.md)
+* `0x2024_1402` [Pcbcupid](./creations/Pcbcupid.md)
 
 ## `0x4xxx_xxxx`
 
