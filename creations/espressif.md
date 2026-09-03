@@ -19,6 +19,9 @@ Community Allocated Creation IDs for Espressif boards
 *  `0x00C3_0001` ESP32-C3-DevKitM-1
 *  `0x00C3_A000` ESP32-C3-Lyra V2.0
 
+## `0x00C5_xxxx` - C5 dev boards
+*  `0x00C5_0001` ESP32-C5-DevKitC-1 N8R8
+
 ## `0x00C6_xxxx` - C6 dev boards
 *  `0x00C6_0001` ESP32-C6-DevKitM-1
 *  `0x00C6_0002` ESP32-C6-DevKitC-1
