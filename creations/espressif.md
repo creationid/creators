@@ -12,6 +12,9 @@ Community Allocated Creation IDs for Espressif boards
 
 ## `0x0053_xxxx` - S3 dev boards
 
+## `0x0053_1xxx` - S31 dev boards
+*  `0x0053_1001` ESP32-S31-Korvo-1
+
 ## `0x00C2_xxxx` - C2 dev boards
 *  `0x00C2_0000` ESP8684-DevKitC-02-N4
 
