@@ -85,7 +85,7 @@ Creation ID allocation is left up to the creator. However, here are some guideli
 * `0x7001_0001` [Bruce Segal (skieast)](https://github.com/skieast)
 
 ## `0xBxxx_xxxx`
-* `0xB0B0_0000` [Unexpected Maker](https://github.com/unexpectedmaker)
+* `0xB0B0_0000` [Unexpected Maker](./creations/unexpectedmaker.md)
 * `0xBA00_0000` [Espruino / Bangle.js](./creations/espruino.md)
 
 ## `0xCxxx_xxxx`
